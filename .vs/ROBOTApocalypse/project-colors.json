@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba2d6bf4-8da3-444b-bbaf-dd4e00b13d6a": {
+      "ProjectGuid": "ba2d6bf4-8da3-444b-bbaf-dd4e00b13d6a",
+      "DisplayName": "ROBOTApocalypse.Api",
+      "ColorIndex": 0
+    },
+    "ff142330-a4b0-41a6-aa98-be57aaa818ee": {
+      "ProjectGuid": "ff142330-a4b0-41a6-aa98-be57aaa818ee",
+      "DisplayName": "ROBOTApocalypse.DB",
+      "ColorIndex": 1
+    },
+    "9de3477f-b9ef-4b05-8fa7-f61d329a0aca": {
+      "ProjectGuid": "9de3477f-b9ef-4b05-8fa7-f61d329a0aca",
+      "DisplayName": "ROBOTApocalypse.Services",
+      "ColorIndex": 2
+    },
+    "7c81ab03-4006-4a71-beee-a075895f2021": {
+      "ProjectGuid": "7c81ab03-4006-4a71-beee-a075895f2021",
+      "DisplayName": "ROBOTApocalypse.IServices",
+      "ColorIndex": 3
+    },
+    "588fb1a9-f782-4d59-afad-4e8e6986de92": {
+      "ProjectGuid": "588fb1a9-f782-4d59-afad-4e8e6986de92",
+      "DisplayName": "ROBOTApocalypse.Entity",
+      "ColorIndex": 4
+    },
+    "4f83f415-d96b-41c2-aeb2-c4aea35955fd": {
+      "ProjectGuid": "4f83f415-d96b-41c2-aeb2-c4aea35955fd",
+      "DisplayName": "ROBOTApocalypse",
+      "ColorIndex": 5
+    },
+    "f9177874-9811-4086-925d-592c6fd2ce20": {
+      "ProjectGuid": "f9177874-9811-4086-925d-592c6fd2ce20",
+      "DisplayName": "ROBOTApocalypse.Common",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

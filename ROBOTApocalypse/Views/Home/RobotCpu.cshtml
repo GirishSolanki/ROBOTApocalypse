@@ -1,0 +1,33 @@
+﻿@model List<ROBOTApocalypse.Entity.RobotCpu>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<h1>Robot List</h1>
+
+@{
+    if (Model != null)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Model</th>
+                    <th scope="col">Category</th>
+                    <th scope="col">Manufactured Date</th>
+                    <th scope="col">Serial Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@item.Model</th>
+                        <td>@item.Category</td>
+                        <td>@item.ManufacturedDate</td>
+                        <td>@item.SerialNumber</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}

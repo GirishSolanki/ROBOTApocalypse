@@ -1,0 +1,15 @@
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\bin\Debug\net6.0\ROBOTApocalypse.IServices.deps.json
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\bin\Debug\net6.0\ROBOTApocalypse.IServices.dll
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\bin\Debug\net6.0\ROBOTApocalypse.IServices.pdb
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.AssemblyInfoInputs.cache
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.AssemblyInfo.cs
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.csproj.CoreCompileInputs.cache
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.dll
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ref\ROBOTApocalypse.IServices.dll
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.pdb
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\bin\Debug\net6.0\ROBOTApocalypse.Entity.dll
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\bin\Debug\net6.0\ROBOTApocalypse.Entity.pdb
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.csproj.AssemblyReference.cache
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\ROBOTApocalypse.IServices.csproj.CopyComplete
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.IServices\obj\Debug\net6.0\refint\ROBOTApocalypse.IServices.dll

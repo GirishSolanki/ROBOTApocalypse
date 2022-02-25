@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ROBOTApocalypse.DB\ROBOTApocalypse.DB.csproj" />
+    <ProjectReference Include="..\ROBOTApocalypse.Entity\ROBOTApocalypse.Entity.csproj" />
+    <ProjectReference Include="..\ROBOTApocalypse.IServices\ROBOTApocalypse.IServices.csproj" />
+  </ItemGroup>
+
+</Project>

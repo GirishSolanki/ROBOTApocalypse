@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cqp/T3bf7MFR79lUvQdFjwV+o7+Fweqf9ddn9H6dbZQT+l1RG/hbE3b3rMDiJauhZZdvFFcsJE+77BWh7Fgq+g==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\ROBOTApocalypse\\ROBOTApocalypse\\ROBOTApocalypse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maurya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

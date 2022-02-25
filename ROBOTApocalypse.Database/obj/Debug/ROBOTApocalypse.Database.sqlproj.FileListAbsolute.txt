@@ -1,0 +1,6 @@
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.Database\bin\Debug\ROBOTApocalypse.Database.dacpac
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.Database\bin\Debug\ROBOTApocalypse.Database.dll
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.Database\bin\Debug\ROBOTApocalypse.Database.pdb
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.Database\obj\Debug\ROBOTApocalypse.Database.sqlproj.AssemblyReference.cache
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.Database\obj\Debug\ROBOTApocalypse.Database.dll
+E:\Projects\ROBOTApocalypse\ROBOTApocalypse.Database\obj\Debug\ROBOTApocalypse.Database.pdb
