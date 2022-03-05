@@ -70,3 +70,5 @@
 
 
 you can call above api from swagger.
+
+DB script also attached.
